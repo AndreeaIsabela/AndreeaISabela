@@ -1,0 +1,144 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF0F5"/>
+      <stop offset="60%" stop-color="#FFE4EE"/>
+      <stop offset="100%" stop-color="#EFE2FF"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB7C5" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFB7C5" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FFB7C5" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="14"/>
+  <!-- Border -->
+  <rect width="900" height="200" fill="none" stroke="#FFB7C5" stroke-width="1.5" rx="14" opacity="0.7"/>
+  <!-- Inner shimmer line top -->
+  <rect x="20" y="8" width="860" height="1" fill="url(#shimmer)" opacity="0.8"/>
+  <!-- Inner shimmer line bottom -->
+  <rect x="20" y="191" width="860" height="1" fill="url(#shimmer)" opacity="0.8"/>
+
+  <!-- ── Cherry blossom flowers ── -->
+  <!-- Flower helper: 5 ellipses + center -->
+
+  <!-- Flower 1 – top left -->
+  <g transform="translate(72, 42)" opacity="0.75">
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFB7C5" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFB7C5" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFD6E0" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFB7C5" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFD6E0" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="4" fill="#FFF0F5"/>
+    <circle cx="0" cy="0" r="2" fill="#C9A0DC"/>
+  </g>
+
+  <!-- Flower 2 – top right -->
+  <g transform="translate(828, 38)" opacity="0.75">
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFD6E0" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFB7C5" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFB7C5" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFD6E0" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-10" rx="6" ry="10" fill="#FFB7C5" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="4" fill="#FFF0F5"/>
+    <circle cx="0" cy="0" r="2" fill="#C9A0DC"/>
+  </g>
+
+  <!-- Flower 3 – bottom left -->
+  <g transform="translate(55, 165)" opacity="0.6">
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#C9A0DC" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#FFB7C5" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#C9A0DC" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#FFB7C5" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#C9A0DC" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="3" fill="#FFF0F5"/>
+  </g>
+
+  <!-- Flower 4 – bottom right -->
+  <g transform="translate(848, 162)" opacity="0.6">
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#FFB7C5" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#C9A0DC" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#FFB7C5" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#C9A0DC" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-8" rx="5" ry="8" fill="#FFB7C5" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="3" fill="#FFF0F5"/>
+  </g>
+
+  <!-- Flower 5 – mid left -->
+  <g transform="translate(38, 100)" opacity="0.5">
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#FFB7C5" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#FFB7C5" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#FFB7C5" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#FFB7C5" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#FFB7C5" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="2.5" fill="#FFF0F5"/>
+  </g>
+
+  <!-- Flower 6 – mid right -->
+  <g transform="translate(864, 100)" opacity="0.5">
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#C9A0DC" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#C9A0DC" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#C9A0DC" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#C9A0DC" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-7" rx="4" ry="7" fill="#C9A0DC" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="2.5" fill="#FFF0F5"/>
+  </g>
+
+  <!-- ── Floating petals ── -->
+  <ellipse cx="160" cy="25" rx="6" ry="10" fill="#FFB7C5" opacity="0.5" transform="rotate(-30 160 25)"/>
+  <ellipse cx="730" cy="30" rx="5" ry="9" fill="#C9A0DC" opacity="0.45" transform="rotate(20 730 30)"/>
+  <ellipse cx="200" cy="180" rx="5" ry="8" fill="#FFB7C5" opacity="0.4" transform="rotate(15 200 180)"/>
+  <ellipse cx="700" cy="175" rx="6" ry="9" fill="#C9A0DC" opacity="0.4" transform="rotate(-20 700 175)"/>
+  <ellipse cx="130" cy="80" rx="4" ry="7" fill="#FFD6E0" opacity="0.5" transform="rotate(45 130 80)"/>
+  <ellipse cx="775" cy="120" rx="4" ry="7" fill="#FFD6E0" opacity="0.5" transform="rotate(-40 775 120)"/>
+
+  <!-- ── Sparkles ── -->
+  <!-- 4-point star: two thin diamonds overlaid -->
+  <path d="M148,145 L150,138 L152,145 L159,147 L152,149 L150,156 L148,149 L141,147 Z" fill="#C9A0DC" opacity="0.7"/>
+  <path d="M752,50 L754,44 L756,50 L762,52 L756,54 L754,60 L752,54 L746,52 Z" fill="#FFB7C5" opacity="0.7"/>
+  <path d="M110,58 L111.5,53 L113,58 L118,59.5 L113,61 L111.5,66 L110,61 L105,59.5 Z" fill="#C9A0DC" opacity="0.6"/>
+  <path d="M790,148 L791.5,143 L793,148 L798,149.5 L793,151 L791.5,156 L790,151 L785,149.5 Z" fill="#FFB7C5" opacity="0.6"/>
+  <!-- Small dot sparkles -->
+  <circle cx="180" cy="60" r="2.5" fill="#C9A0DC" opacity="0.6"/>
+  <circle cx="720" cy="148" r="2.5" fill="#FFB7C5" opacity="0.6"/>
+  <circle cx="135" cy="130" r="2" fill="#FFB7C5" opacity="0.5"/>
+  <circle cx="765" cy="75" r="2" fill="#C9A0DC" opacity="0.5"/>
+
+  <!-- ── Decorative divider lines ── -->
+  <line x1="195" y1="100" x2="345" y2="100" stroke="#FFB7C5" stroke-width="1" opacity="0.4"/>
+  <line x1="555" y1="100" x2="705" y2="100" stroke="#FFB7C5" stroke-width="1" opacity="0.4"/>
+  <!-- Small diamond in center of each line -->
+  <path d="M268,97 L271,100 L268,103 L265,100 Z" fill="#FFB7C5" opacity="0.5"/>
+  <path d="M632,97 L635,100 L632,103 L629,100 Z" fill="#FFB7C5" opacity="0.5"/>
+
+  <!-- ── Main text ── -->
+  <text
+    x="450" y="88"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="52"
+    font-weight="bold"
+    fill="#7B4F6B"
+    letter-spacing="5"
+  >Isabela</text>
+
+  <text
+    x="450" y="120"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="17"
+    fill="#C9A0DC"
+    letter-spacing="3"
+  >Full Stack Developer</text>
+
+  <text
+    x="450" y="152"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="13"
+    fill="#FFB7C5"
+    letter-spacing="2.5"
+  >reliable · curious · flexible ✦</text>
+</svg>
