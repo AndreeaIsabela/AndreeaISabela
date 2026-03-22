@@ -6,7 +6,6 @@
     <a href="mailto:bala.andreea.isabella@gmail.com"><img src="https://img.shields.io/badge/gmail-2F6B3F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   </p>
 </div>
-<br>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnhpOTA2aGFpZ3hleXAyeWV6eW5udDA0YzRuZzFhNzU1ZzczMXlyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/m5BQSNBFTzpZg9YZgH/giphy.gif" width="35" /> About Me:
 
@@ -39,7 +38,6 @@
 
 ---
 
-<br>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Leveling Up:
 
