@@ -1,100 +1,48 @@
-<div align="center">
-  <img src="assets/banner.svg" alt="Isabela's banner" width="900"/>
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Romanian+%F0%9F%87%B7%F0%9F%87%B4;Building+since+2018;reliable+%C2%B7+curious+%C2%B7+flexible&width=500&height=50&size=20&color=FFB7C5&center=true&vCenter=true&pause=1000&repeat=true" alt="Typing animation"/>
-
-  **Hi, I'm Isabela — I build things that work, for people who need them. 🌸**
+# Hi, I'm Isabela! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG0yZWtuajQ5cGo5c2Flc3c1MXl0YWM3anJnbG1leWZqaHh5MWs4ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tFqKgC5KSoZRm/giphy.gif" width="65" />
+<div>
+  <p>
+    <a href="https://www.linkedin.com/in/cioarec-andreea-isabela-234bb619b/"><img src="https://img.shields.io/badge/linkedin-2F6B3F.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://discord.com/users/1404883886017744906"><img src="https://img.shields.io/badge/isabella053118-7FB77E.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+    <a href="mailto:bala.andreea.isabella@gmail.com"><img src="https://img.shields.io/badge/gmail-2F6B3F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  </p>
 </div>
-
 <br>
 
-<div align="center">🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸</div>
+### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnhpOTA2aGFpZ3hleXAyeWV6eW5udDA0YzRuZzFhNzU1ZzczMXlyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/m5BQSNBFTzpZg9YZgH/giphy.gif" width="35" /> About Me:
 
-<br>
 
-<div align="center">
-  <img src="assets/fairy-avatar.svg" alt="Isabela — fairy warrior with skill equipment" width="500"/>
-</div>
-
-<br>
-
-<div align="center">🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸</div>
-
-<br>
-
-<table>
-  <tr>
-    <td align="center">
-
-**dev personality**
-
-🗣️ I talk before I type
-<br>
-🐛 No bug is too small (I will find you)
-<br>
-🔥 I fix, I don't blame
-<br>
-🗺️ Give me the unknown
-<br>
-🌸 reliable · curious · flexible
-
-  </td>
-    <td align="center">
-
-**realm status**
-
-🗺️ Questing through Python
-<br>
-🛡️ Defending production
-<br>
-🍄 Available for side quests
-
-  </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸</div>
-
-<div align="center"><br>~ skills ~<br><br></div>
-
-<div align="center">
-  <summary>
-    <img src="https://img.shields.io/badge/🌸_Frontend-FFB7C5?style=for-the-badge&logoColor=7B4F6B" alt="Frontend"/>
-  </summary>
-  Vue 3 🌸 Primary weapon · TypeScript 🛡️ Always equipped · Tailwind
+ 🇷🇴 Romanian
+ <br>
+ 💻 I'm a Full Stack Developer
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ <br>
+ 🏗️ Building since 2018
+ <br>
+ 🌱 I’m currently Python & React native 
+ <br>
+ 🥅 2026 Goals: Ship more!!
   <br>
-  🎨 Battle style · Vue 2 · Pug · Stylus
-  <br>
-  ⭐ Main Spell Combo: Vue 3 + TypeScript + Tailwind
+  ⚡ Fun fact, I love:
 
-  <br>
-  <summary>
-    <img src="https://img.shields.io/badge/⚔️_Backend-FFB7C5?style=for-the-badge&logoColor=7B4F6B" alt="Backend"/>
-  </summary>
-  Node.js (Express) · ⚔️ Trusted blade · NestJS
-  <br>
-  🏰 Heavy armor · MongoDB (Mongoose)
-  <br>
-  🗄️ Memory vault
-
-  <br>
-  <summary>
-    <img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-FFB7C5?style=for-the-badge&logoColor=7B4F6B" alt="Cloud & DevOps"/>
-  </summary>
-  AWS (EC2 · S3 · Route 53) ☁️ Realm infrastructure
-  <br>
-  · Docker 🐳 Contained spells
-  <br>
-  · GitLab · Jira
-</div>
+  <img src="https://readme-typing-svg.demolab.com/?lines=to+bake+sourdough+%F0%9F%8D%9E;to+crochet+%F0%9F%A7%B6;cats+%F0%9F%90%88;hiking+%F0%9F%A5%BE &width=500&height=50&size=20&color=2F6B3F&center=false&vCenter=true&pause=1000&repeat=true" alt="Typing animation"/>
+ <br>
+ 👩🏼‍💻 Tech I work with :
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,react,typescript,py,nodejs" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nest,git,aws,docker,mongodb" />
+  </a>
+</p>
 
 <br>
 
-<div align="center">🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸</div>
+---
 
-<div align="center"><br>~ leveling up ~<br><br></div>
+<br>
+
+### <img src="Developer.gif" width="45" /> Leveling Up:
 
 ```
 Python        🔓 Unlocking  ▓▓▓░░░░░
@@ -104,44 +52,30 @@ AI/LLM Tools  🔓 Unlocking  ▓░░░░░░░
 
 <br>
 
-<div align="center">🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸</div>
-
-<br>
-
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AndreeaIsabela/AndreeaIsabela/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+  <br>
+
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AndreeaIsabela&show_icons=true&bg_color=00000000&title_color=FFB7C5&text_color=7B4F6B&icon_color=C9A0DC&hide_border=true&count_private=true" alt="Isabela's GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AndreeaIsabela&show_icons=true&bg_color=00000000&title_color=2F6B3F&text_color=7FB77E&icon_color=C9A0DC&hide_border=true&count_private=true" alt="Isabela's GitHub Stats"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreeaIsabela&layout=compact&langs_count=8&bg_color=00000000&title_color=FFB7C5&text_color=7B4F6B&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreeaIsabela&layout=compact&langs_count=8&bg_color=00000000&title_color=2F6B3F&text_color=7FB77E&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
-  <img src="https://raw.githubusercontent.com/AndreeaIsabela/AndreeaIsabela/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 <br>
 
-<div align="center">🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸 ─── 🌸</div>
-
-<br>
-
-<div align="center">
-
-📜 [LinkedIn](https://www.linkedin.com/in/cioarec-andreea-isabela-234bb619b/) · 🪄 [Email](mailto:bala.andreea.isabella@gmail.com) · 🌿 [GitHub](https://github.com/AndreeaIsabela)
-
-🌸 *Build something that matters today. It'll be a dream tomorrow.*
-</div>
-<p align="right">
+<div align="right">
   <details><summary>🍄</summary>
 
   Thanks for reading this far, you're clearly a person of culture. 🌸
 
-  *"Someday we will dream about today and wonder how it slipped away."*
-
   </details>
-
-</p>
+</div>
