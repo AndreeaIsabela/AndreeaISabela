@@ -22,7 +22,7 @@
   <br>
   ⚡ Fun fact, I love:
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=to+bake+sourdough+%F0%9F%8D%9E;to+crochet+%F0%9F%A7%B6;cats+%F0%9F%90%88;hiking+%F0%9F%A5%BE &width=500&height=50&size=20&color=2F6B3F&center=false&vCenter=true&pause=1000&repeat=true" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=to+bake+sourdough+%F0%9F%8D%9E;to+crochet+%F0%9F%A7%B6;cats+%F0%9F%90%88;hiking+%F0%9F%A5%BE&width=500&height=50&size=20&color=2F6B3F&center=false&vCenter=true&pause=1000&repeat=true" alt="Typing animation"/>
  <br>
  👩🏼‍💻 Tech I work with :
 <p>
