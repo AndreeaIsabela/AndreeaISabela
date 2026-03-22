@@ -10,11 +10,10 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnhpOTA2aGFpZ3hleXAyeWV6eW5udDA0YzRuZzFhNzU1ZzczMXlyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/m5BQSNBFTzpZg9YZgH/giphy.gif" width="35" /> About Me:
 
-
+ <br>
  🇷🇴 Romanian
  <br>
  💻 I'm a Full Stack Developer
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  <br>
  🏗️ Building since 2018
  <br>
@@ -42,7 +41,7 @@
 
 <br>
 
-### <img src="Developer.gif" width="45" /> Leveling Up:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Leveling Up:
 
 ```
 Python        🔓 Unlocking  ▓▓▓░░░░░
@@ -56,6 +55,8 @@ AI/LLM Tools  🔓 Unlocking  ▓░░░░░░░
   <img src="https://raw.githubusercontent.com/AndreeaIsabela/AndreeaIsabela/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
   <br>
+
+---
 
   <table>
     <tr>
