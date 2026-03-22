@@ -16,7 +16,7 @@
  <br>
  🏗️ Building since 2018
  <br>
- 🌱 I’m currently Python & React native 
+ 🌱 I’m currently learning Python & React native 
  <br>
  🥅 2026 Goals: Ship more!!
   <br>
